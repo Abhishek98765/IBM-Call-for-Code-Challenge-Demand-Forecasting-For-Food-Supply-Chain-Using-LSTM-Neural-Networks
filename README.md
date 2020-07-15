@@ -11,3 +11,7 @@ Click Submit to initiate training
 
 
 Wait for a few minutes. The results.csv file will automatically download.
+
+Link for project video- https://www.youtube.com/watch?v=YAodXxWqkQM
+
+
