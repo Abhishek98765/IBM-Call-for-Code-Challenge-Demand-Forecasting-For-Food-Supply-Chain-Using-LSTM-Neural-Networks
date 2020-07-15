@@ -1,7 +1,7 @@
 # SBSPS-Challenge-3563-Demand-Forecasting-for-food-supply-chain-using-LSTM-neural-networks
 Ensure the required libraries are installed
 
-Run app.py after installing the requirements
+Run app.py after installing the requirements- Tensorflow 1.14, flask, numpy, pandas, scikit-learn, keras
 
 Place the local URL in the browser
 
