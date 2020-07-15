@@ -14,4 +14,6 @@ Wait for a few minutes. The results.csv file will automatically download.
 
 Link for project video- https://www.youtube.com/watch?v=YAodXxWqkQM
 
+You can also prediction.py on the same train dataset for predictions corresponding to a centre-meal id pair. It takes quite a while training.
+
 
