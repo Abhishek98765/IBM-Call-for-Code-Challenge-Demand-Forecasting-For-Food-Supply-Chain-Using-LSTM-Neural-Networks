@@ -1,4 +1,6 @@
-# IBM CALL FOR CODE CHALLENGE 2020   TEAM NAME- THE DOTHRAKI    TEAM MEMBERS- Kaushik S and Abhishek Raman  Demand-Forecasting-for-food-supply-chain-using-LSTM-neural-networks
+# IBM CALL FOR CODE CHALLENGE 2020   TEAM NAME- THE DOTHRAKI    TEAM MEMBERS- Kaushik S and Abhishek Raman  
+
+INSTRUCTIONS
 
 Ensure the required libraries are installed
 
